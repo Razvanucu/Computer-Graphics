@@ -1,0 +1,102 @@
+# Blender 4.2.2 LTS MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl lambert14
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.005
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.057
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.058
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.061
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.062
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.063
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
+
+newmtl lambert14.065
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Plants_textures_01_00.png
+map_d Plants_textures_01_00.tga
